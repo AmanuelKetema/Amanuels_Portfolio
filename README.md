@@ -1,2 +1,3 @@
 # Amanuels_Portfolio
-This is a portfolio for CS 4395
+
+Link to Overview for H: https://github.com/AmanuelKetema/Amanuels_Portfolio/blob/main/Homework1/Homework1_Overview.pdf
