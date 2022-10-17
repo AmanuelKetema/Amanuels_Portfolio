@@ -10,3 +10,4 @@ Link to Guessing Game: https://github.com/AmanuelKetema/Amanuels_Portfolio/blob/
 
 Link to WordNet Portfolio Assignment: https://github.com/AmanuelKetema/Amanuels_Portfolio/blob/main/aks210003_wordNet_porfolio_submission.ipynb-Colaboratory.pdf
 
+Link to Web Crawler: https://github.com/AmanuelKetema/Amanuels_Portfolio/tree/main/Web%20Crawler
