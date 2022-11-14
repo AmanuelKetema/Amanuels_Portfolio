@@ -13,3 +13,5 @@ Link to WordNet Portfolio Assignment: https://github.com/AmanuelKetema/Amanuels_
 Link to Web Crawler: https://github.com/AmanuelKetema/Amanuels_Portfolio/tree/main/Web%20Crawler
 
 Link to NLP Parser: https://github.com/AmanuelKetema/Amanuels_Portfolio/tree/main/NLP%20-%20Parser%20Assignment
+
+Link to Author Attribution: https://github.com/AmanuelKetema/Amanuels_Portfolio/tree/main/Author%20Attribution
